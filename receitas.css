@@ -1,0 +1,25 @@
+main {
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+h5 {
+    font-weight: bolder;
+}
+
+.card {
+    width: 200px;
+}
+
+.card,
+.list-group-item {
+    background-color: #FBF9D2;
+    text-align: justify;
+}
+.list-group {
+    height: 14em;
+    text-align: center;
+}
+.col {
+    margin-top: 1em;
+}
+
